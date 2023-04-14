@@ -5,9 +5,11 @@ body {
   margin: 60px;
 }
 
-a {
+footer {
   color: brown;
+  margin: 0 10px;
 }
+
 img {
   margin: 30px;
   border-radius: 5px;
